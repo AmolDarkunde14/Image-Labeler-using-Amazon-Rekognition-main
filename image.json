@@ -1,0 +1,6 @@
+{
+  "S3Object": {
+    "Bucket": "mini-project-image-labeler-using-amazon-rekognition-bucket",
+    "Name": "example_image.png"
+  }
+}
